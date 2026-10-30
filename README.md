@@ -1,59 +1,64 @@
 # Hi, I'm Erick 👋
 
-**Software Developer · Full-Stack Engineering · Automation**
+### Full-Stack Developer · SaaS · Automation
 
-I'm a software developer based in Monterrey, Mexico, focused on building practical, scalable software solutions for businesses.
+**Building software that solves real business problems.**
 
-My work spans full-stack web development, business process automation, API integrations, and enterprise systems.
+I'm a software developer based in Monterrey, Mexico, specializing in full-stack applications, enterprise systems, and business process automation.
 
-I'm also the founder of **ZAEL**, a software initiative focused on SaaS products, custom applications, and digital solutions for businesses.
+Founder of **[ZAEL](https://zael.tech)** — building SaaS products, custom software, and digital solutions for businesses.
 
-### Tech Stack
+---
+
+### ⚡ Tech Stack
 
 **Frontend**
-- TypeScript · JavaScript · React · Next.js
-- Tailwind CSS · HTML · CSS
 
-**Backend & Databases**
-- Node.js · Python · FastAPI
-- PostgreSQL · Prisma · REST APIs
+![TypeScript](https://img.shields.io/badge/TypeScript-172B36?style=flat-square&logo=typescript&logoColor=61D6BE)
+![Next.js](https://img.shields.io/badge/Next.js-172B36?style=flat-square&logo=nextdotjs&logoColor=61D6BE)
+![React](https://img.shields.io/badge/React-172B36?style=flat-square&logo=react&logoColor=61D6BE)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-172B36?style=flat-square&logo=tailwindcss&logoColor=61D6BE)
 
-**Infrastructure & Tools**
-- Docker · Linux · Git · GitHub Actions
-- Azure DevOps · Microsoft Azure
+**Backend & Data**
 
-**Enterprise & Integrations**
-- Microsoft Dynamics 365 Business Central
-- ERP integrations · Business automation
-- Authentication · Data processing
+![Node.js](https://img.shields.io/badge/Node.js-172B36?style=flat-square&logo=nodedotjs&logoColor=61D6BE)
+![Python](https://img.shields.io/badge/Python-172B36?style=flat-square&logo=python&logoColor=61D6BE)
+![FastAPI](https://img.shields.io/badge/FastAPI-172B36?style=flat-square&logo=fastapi&logoColor=61D6BE)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172B36?style=flat-square&logo=postgresql&logoColor=61D6BE)
 
-### What I Work On
+**Infrastructure**
 
-- **Enterprise Software:** Business applications, point-of-sale systems, and ERP integrations.
-- **SaaS Development:** Multi-tenant platforms and subscription-based products.
-- **Automation:** Custom workflows, bots, APIs, and process optimization.
-- **Full-Stack Applications:** End-to-end web applications, from architecture to deployment.
+![Docker](https://img.shields.io/badge/Docker-172B36?style=flat-square&logo=docker&logoColor=61D6BE)
+![Linux](https://img.shields.io/badge/Linux-172B36?style=flat-square&logo=linux&logoColor=61D6BE)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-172B36?style=flat-square&logo=githubactions&logoColor=61D6BE)
+![Azure](https://img.shields.io/badge/Azure-172B36?style=flat-square&logo=microsoftazure&logoColor=61D6BE)
 
-### ZAEL — Software & Technology
+---
 
-Building software that solves real business problems.
+### 🧩 What I Build
 
-**Focus:** SaaS · Custom Software · Automation · Integrations
+- **Enterprise Applications** — POS systems, ERP integrations, and business platforms.
+- **SaaS Products** — Multi-tenant applications and subscription-based services.
+- **Automation** — APIs, bots, workflows, and process optimization.
+- **Full-Stack Systems** — From architecture and development to deployment.
 
-🌐 [zael.tech](https://zael.tech)
+---
 
-### Currently Exploring
+### 🚀 ZAEL — Software & Technology
 
-- Scalable SaaS architecture
-- Cloud infrastructure and DevOps
-- Software security and reliability
-- AI-assisted development workflows
+Building practical technology for growing businesses.
 
-### Let's Connect
+**SaaS · Custom Software · Automation · Integrations**
 
-- **Website:** [zael.tech](https://zael.tech)
-- **GitHub Organization:** [ZAEL Software](https://github.com/zael-software)
-- **Email:** contacto@zael.tech
+[Website](https://zael.tech) · [GitHub Organization](https://github.com/zael-software)
+
+---
+
+### 📬 Connect
+
+**Website:** [zael.tech](https://zael.tech)
+
+**Email:** contacto@zael.tech
 
 ---
 
