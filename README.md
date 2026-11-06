@@ -1,12 +1,12 @@
 # Hi, I'm Erick 👋
 
-### Full-Stack Developer · SaaS · Automation
+### Full-Stack Developer · Enterprise Software · SaaS
 
-**Building software that solves real business problems.**
+**Building practical software for real business challenges.**
 
-I'm a software developer based in Monterrey, Mexico, specializing in full-stack applications, enterprise systems, and business process automation.
+I'm a software developer based in Monterrey, Mexico. I work on full-stack applications, enterprise integrations, and business process automation—from initial architecture to deployment and ongoing maintenance.
 
-Founder of **[ZAEL](https://zael.tech)** — building SaaS products, custom software, and digital solutions for businesses.
+I'm building **[Zaether Labs](https://zaetherlabs.com)** alongside my brother, creating custom software and digital products for businesses.
 
 ---
 
@@ -26,39 +26,41 @@ Founder of **[ZAEL](https://zael.tech)** — building SaaS products, custom soft
 ![FastAPI](https://img.shields.io/badge/FastAPI-172B36?style=flat-square&logo=fastapi&logoColor=61D6BE)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-172B36?style=flat-square&logo=postgresql&logoColor=61D6BE)
 
-**Infrastructure**
+**Infrastructure & Delivery**
 
 ![Docker](https://img.shields.io/badge/Docker-172B36?style=flat-square&logo=docker&logoColor=61D6BE)
 ![Linux](https://img.shields.io/badge/Linux-172B36?style=flat-square&logo=linux&logoColor=61D6BE)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-172B36?style=flat-square&logo=githubactions&logoColor=61D6BE)
 ![Azure](https://img.shields.io/badge/Azure-172B36?style=flat-square&logo=microsoftazure&logoColor=61D6BE)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-172B36?style=flat-square&logo=cloudflare&logoColor=61D6BE)
 
 ---
 
-### 🧩 What I Build
+### 🧩 What I Work On
 
-- **Enterprise Applications** — POS systems, ERP integrations, and business platforms.
-- **SaaS Products** — Multi-tenant applications and subscription-based services.
-- **Automation** — APIs, bots, workflows, and process optimization.
-- **Full-Stack Systems** — From architecture and development to deployment.
+- **Enterprise Software** — POS applications, ERP integrations, and operational platforms.
+- **Custom Development** — Business-focused web applications and internal tools.
+- **SaaS Products** — Subscription-based software and scalable architectures.
+- **Automation & Integrations** — APIs, workflows, and process optimization.
 
 ---
 
-### 🚀 ZAEL — Software & Technology
+### 🚀 Zaether Labs
 
-Building practical technology for growing businesses.
+**Software built around how businesses actually work.**
 
-**SaaS · Custom Software · Automation · Integrations**
+Together with my brother, I'm building Zaether Labs to deliver custom software, enterprise systems, and digital solutions.
 
-[Website](https://zael.tech) · [GitHub Organization](https://github.com/zael-software)
+**Custom Software · Enterprise Systems · SaaS · Integrations**
+
+[Visit Zaether Labs](https://zaetherlabs.com)
 
 ---
 
 ### 📬 Connect
 
-**Website:** [zael.tech](https://zael.tech)
-
-**Email:** contacto@zael.tech
+**Website:** [zaetherlabs.com](https://zaetherlabs.com)  
+**Business inquiries:** [contacto@zaetherlabs.com](mailto:contacto@zaetherlabs.com)
 
 ---
 
